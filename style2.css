@@ -1,0 +1,45 @@
+body{
+    background-color:#191919;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  .background {
+    width: 150px;
+    height: 200px;
+    background:#F2AD43;
+    border-radius: 100px 100px 27px 27px;
+    top:50px;
+    position:absolute;
+    overflow:hidden;
+  }
+  
+  .sol{
+     width: 60px;
+    height: 60px;
+    background:#FFF58F;
+    border-radius:50%;
+    position:absolute;
+    top:90px;
+    left:45px;
+  }
+  
+  .bola_laranja{
+    width: 220px;
+    height: 200px;
+    background:#E08027;
+    border-radius:50%;
+    top:100px;
+    position:absolute;
+    left:-115px;
+  }
+  
+  .bola_marrom{
+    width: 200px;
+    height: 200px;
+    background:#824B20;
+    border-radius:50%;
+    top:100px;
+    position:absolute;
+    left:50px;
+  }

@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  background: #62374e;
+}
+
+div{
+  background: #fdc57b;
+  height: 120px;
+  width: 120px;
+}
+
+#quadrado1{
+  margin-top: 30px;
+  margin-left: 210px;
+}
+
+#quadrado2{
+  margin-top: 240px;
+  margin-left: 210px;
+}
+
+#quadrado3{
+  margin-top: -480px;
+  margin-left: 950px;
+}
+
+#quadrado4{
+  margin-top: 240px;
+  margin-left: 950px;
+}
